@@ -9,7 +9,7 @@ const corsOptions = {
 
 const app = express();
 app.use(cors(corsOptions));
-const port = 4000;
+const port = 3000;
 
 // const db = mysql.createConnection({
 //   host: "153.92.6.148",
